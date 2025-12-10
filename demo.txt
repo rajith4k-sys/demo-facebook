@@ -3,8 +3,7 @@
   hosts: localhost
   become: true 
   tasks:
-  - apt:
-      name: install java
-      package: opejdk-11
-      
+  
     
+    
+
